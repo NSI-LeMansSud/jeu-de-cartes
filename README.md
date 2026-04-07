@@ -6,6 +6,7 @@ Voir [tutoPDF](Tri_JeuCartes.pdf) pour découvrir la manipulation et l'affichage
 
 
 **Version A** (BELONCLE Naël, BROUSMICHE Antoine, DELOUBES Peyo)
+
 Faire un programme (avec commentaires et tests) qui :
 - mélange aléatoirement un jeu de 32 cartes complet (de l’As jusqu’au 7) ;
 - prend les 10 premières cartes sur le dessus du paquet et les affiche dans l’ordre de tirage des cartes ;
@@ -13,6 +14,7 @@ Faire un programme (avec commentaires et tests) qui :
 - affiche les 10 cartes ainsi triées dans un emplacement disponible de la fenêtre graphique.
 
 **Version B** (DOUKOURE Karl, DURANTEAU Robin, FRÉBOURG Dorian)
+
 Faire un programme (avec commentaires et tests) qui :
 - mélange aléatoirement un jeu de 32 cartes complet (de l’As jusqu’au 7) ;
 - prend les 8 premières cartes sur le dessus du paquet et les affiche dans l’ordre de tirage des cartes ;
@@ -20,6 +22,7 @@ Faire un programme (avec commentaires et tests) qui :
 - affiche les 8 cartes ainsi triées dans un emplacement disponible de la fenêtre graphique.
 
 **Version C** (MAZOIR Nawfel, NISTOR Mihai-Matei, PAULOIN Louis)
+
 Faire un programme (avec commentaires et tests) qui :
 - mélange aléatoirement un jeu de 52 cartes complet ;
 - prend les 15 premières cartes sur le dessus du paquet et les affiche dans l’ordre de tirage des cartes ;
@@ -27,6 +30,7 @@ Faire un programme (avec commentaires et tests) qui :
 - affiche les 10 cartes restantes triées par ordre croissant dans un emplacement disponible de la fenêtre graphique (méthode par insertion ou par sélection).
 
 **Version D** (RICHARD--CHARDON Quentin, SILECI Nathan, TONDEUX Nils)
+
 Faire un programme (avec commentaires et tests) qui :
 - mélange aléatoirement un jeu de 52 cartes complet ;
 - prend les 15 premières cartes sur le dessus du paquet et les affiche dans l’ordre de tirage des cartes ;
